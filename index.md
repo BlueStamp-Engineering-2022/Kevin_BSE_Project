@@ -11,7 +11,7 @@ For my project I have built a robotic arm. Where it was challenging in some part
 
 My starter project is a useless machine that turns a switch off if it is turned on. I was able to learn the basics of soldering, as well and how circuits works. I also learned about flip switches and pressure switches, as they are the types of switched used in the machine. The soldering was hard for me at first, but I eventually got used to it.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://youtu.be/Fna8xGhYYS0){:target="_blank" rel="noopener"}
+[![Starter Project](https://user-images.githubusercontent.com/80135004/174338094-e062d5b5-acec-4be5-8e7b-e0c66c8dc47e.png))](https://youtu.be/Fna8xGhYYS0){:target="_blank" rel="noopener"}
 
 
 # Final Milestone
