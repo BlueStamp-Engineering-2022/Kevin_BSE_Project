@@ -3,7 +3,7 @@ For my project I have built a robotic arm. Where it was challenging in some part
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kevin Yuan | Gunn High School | Electrical Engineering | Incoming Junior
+| Kevin Yuan | Troy High School | Electrical Engineering | Incoming Junior
 
 ![Headstone image](https://user-images.githubusercontent.com/80135004/174334946-d0cbc2dd-d0e5-4fb6-8feb-a164921679e3.png)
   
