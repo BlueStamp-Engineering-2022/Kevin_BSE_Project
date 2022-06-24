@@ -29,3 +29,5 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My first milestone is to finish constructing the physical portion of the robotic arm. This is because this is the part of the robotic arm that will actually be doing what the robotic arm is meant to do. It is important to make sure that all the screws are on tightly, so that they do not fall off when the arm starts moving. It was hard to distinguish the screws from each other at the beginning, but I realized that they each have labels on their bags.
 
 [![First Milestone](https://i.ibb.co/8j9BdTr/EHAHH.png)](https://youtu.be/B3PHC6xPnBk)
+
+https://i.ibb.co/Qf6gFBQ/Untitled-1.png
