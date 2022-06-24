@@ -11,7 +11,7 @@ For my project I have built a robotic arm. Where it was challenging in some part
 
 My starter project is a useless machine that turns a switch off if it is turned on. I was able to learn the basics of soldering, as well and how circuits works. I also learned about flip switches and pressure switches, as they are the types of switched used in the machine. The soldering was hard for me at first, but I eventually got used to it.
 
-[![Starter Project](https://i.ibb.co/kK53d8z/MWAHA.png)](https://youtu.be/Fna8xGhYYS0)
+[![Starter Project](https://i.ibb.co/qB70Zsh/MWAHA.png)](https://youtu.be/Fna8xGhYYS0)
 
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
