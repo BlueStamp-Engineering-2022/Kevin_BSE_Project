@@ -20,9 +20,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone is the replacement of the robot's small servos with bigger ones for more strength. The old servos, which had a torque of 2.0 kg/cm, were unable to do some of the tasks expected of a robotic arm, such as to pick up objects. The bigger servos had a torque of 21.5 kg/cm, which is over ten times larger than the smaller ones. This allows the robot arm to pick up objects and move them around. replacing the servos required different parts, because the bigger ones would not fit in the parts designed for smaller servos. I ended up 3D printing new parts that I had designed in Fusion 360.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://ibb.co/yp2xyLw)](https://www.youtube.com/watch?v=3FViclcukmk&ab_channel=BlueStampEng)
 # First Milestone
   
 
