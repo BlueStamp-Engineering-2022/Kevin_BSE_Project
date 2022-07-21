@@ -30,4 +30,4 @@ My first milestone is to finish constructing the physical portion of the robotic
 
 [![First Milestone](https://i.ibb.co/8j9BdTr/EHAHH.png)](https://youtu.be/B3PHC6xPnBk)
 
-[![First Milestone](https://i.ibb.co/Qf6gFBQ/Untitled-1.png)]
+[![First Milestone]![image](https://user-images.githubusercontent.com/80135004/180288681-e0e6812e-b7cc-4770-bb4e-8ee8a7d8912a.png)
