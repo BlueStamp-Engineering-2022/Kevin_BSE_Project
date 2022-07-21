@@ -22,7 +22,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone is the replacement of the robot's small servos with bigger ones for more strength. The old servos, which had a torque of 2.0 kg/cm, were unable to do some of the tasks expected of a robotic arm, such as to pick up objects. The bigger servos had a torque of 21.5 kg/cm, which is over ten times larger than the smaller ones. This allows the robot arm to pick up objects and move them around. replacing the servos required different parts, because the bigger ones would not fit in the parts designed for smaller servos. I ended up 3D printing new parts that I had designed in Fusion 360.
 
-[![Third Milestone](https://ibb.co/yp2xyLw)](https://youtu.be/3FViclcukmk)
+[![Third Milestone](https://i.postimg.cc/V6gfFCnS/maxresdefault.png)](https://youtu.be/3FViclcukmk)
 # First Milestone
   
 
