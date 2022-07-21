@@ -33,4 +33,4 @@ My first milestone is to finish constructing the physical portion of the robotic
 Here is the circuit diagram for my project.
 ![image](https://user-images.githubusercontent.com/80135004/180288681-e0e6812e-b7cc-4770-bb4e-8ee8a7d8912a.png)
 
-Here is the code for my project.
+The code for my project can be found in the main branch.
