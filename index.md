@@ -5,7 +5,7 @@ For my project I have built a robotic arm. Where it was challenging in some part
 |:--:|:--:|:--:|:--:|
 | Kevin | Troy High School | Electrical Engineering | Incoming Junior
 
-![image](https://user-images.githubusercontent.com/80135004/180269250-980d9f37-4ea0-4b74-a75a-cea5cc8935d6.png)
+![image](https://user-images.githubusercontent.com/80135004/180485064-68e4b5ea-878e-45f8-b8b0-8c92c72bcc62.png)png)
   
 # Starter Project
 
