@@ -1,5 +1,5 @@
 ﻿# Phone Controlled Robotic Arm
-For my project I have built a robotic arm. Where it was challenging in some parts, it was ultimately a useful project that I enjoyed building.
+For my project I have built a robotic arm. Where it was challenging in some parts, it was ultimately a useful project that I enjoyed building. This robotic arm contains four servos, which makes up the four joints for it. It can pick up most objects, and be controlled by a phone. The wireless connection is done with a bluetooth module and an application on the phone.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
