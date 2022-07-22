@@ -3,7 +3,7 @@ For my project I have built a robotic arm. Where it was challenging in some part
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kevin Yuan | Troy High School | Electrical Engineering | Incoming Junior
+| Kevin | Troy High School | Electrical Engineering | Incoming Junior
 
 ![image](https://user-images.githubusercontent.com/80135004/180269250-980d9f37-4ea0-4b74-a75a-cea5cc8935d6.png)
   
@@ -14,12 +14,6 @@ My starter project is a useless machine that turns a switch off if it is turned 
 [![Starter Project](https://i.ibb.co/qB70Zsh/MWAHA.png)](https://youtu.be/Fna8xGhYYS0)
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
-
-[![Final Milestone](![image](https://user-images.githubusercontent.com/80135004/174338094-e062d5b5-acec-4be5-8e7b-e0c66c8dc47e.png)
-)](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
-
-# Second Milestone
 My second milestone is the replacement of the robot's small servos with bigger ones for more strength. The old servos, which had a torque of 2.0 kg/cm, were unable to do some of the tasks expected of a robotic arm, such as to pick up objects. The bigger servos had a torque of 21.5 kg/cm, which is over ten times larger than the smaller ones. This allows the robot arm to pick up objects and move them around. replacing the servos required different parts, because the bigger ones would not fit in the parts designed for smaller servos. I ended up 3D printing new parts that I had designed in Fusion 360.
 
 [![Third Milestone](https://i.postimg.cc/V6gfFCnS/maxresdefault.png)](https://youtu.be/3FViclcukmk)
